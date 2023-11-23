@@ -6,6 +6,6 @@ import (
 
 func main() {
 	plugin.Serve(&plugin.ServeOpts{
-		ProviderFunc: tf_veeam.Provider,
+		ProviderFunc: provider.Provider,
 	})
 }

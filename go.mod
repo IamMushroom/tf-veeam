@@ -1,4 +1,4 @@
-module tf_veeam
+module github.com/IamMushroom/tf-veeam
 
 go 1.21.3
 
