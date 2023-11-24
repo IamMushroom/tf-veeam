@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/IamMushroom/tf-veeam/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 

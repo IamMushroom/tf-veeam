@@ -2,6 +2,8 @@ module github.com/IamMushroom/tf-veeam
 
 go 1.21.3
 
+require github.com/hashicorp/terraform v0.12.23
+
 require (
 	cloud.google.com/go v0.65.0 // indirect
 	cloud.google.com/go/storage v1.10.0 // indirect
